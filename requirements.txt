@@ -5,3 +5,10 @@ beautifulsoup4
 scikit-learn
 pypdf
 python-docx
+openai>=1.66
+langgraph>=0.2
+streamlit>=1.35
+pandas>=2.0
+pypdf>=4.0
+python-docx>=1.1
+python-dotenv>=1.0
