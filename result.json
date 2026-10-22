@@ -1,0 +1,999 @@
+{
+  "notes": [
+    "Plan to meet the scholarship deadline for the Endeavour Postgraduate Scholarship, requiring comprehensive preparation of academic transcripts, references, and personal statements. Subsequent steps include securing necessary documents for the Australian student visa application."
+  ],
+  "citations": [],
+  "profile": {
+    "name": "Mohib Qureshi",
+    "interests": [
+      "app development",
+      "web development",
+      "machine learning"
+    ],
+    "nationality": "Pakistani",
+    "publications": 0,
+    "experience_years": 2,
+    "docs_held": [
+      "cv"
+    ],
+    "extra_data": {
+      "projects": {
+        "Smart Gas": "Cross Platform Flutter Application",
+        "Cricket Analysis": "WC2023 Analysis Using PowerBI and Python",
+        "Mern Stack Application": "Ecommerce website"
+      }
+    },
+    "_parsed": true,
+    "_asks": 1,
+    "degree": "MS",
+    "field": "AI",
+    "gpa_4": 3.6,
+    "target_country": "Australia"
+  },
+  "missing": [],
+  "sources": [
+    {
+      "name": "Australia Awards Scholarships",
+      "url": "https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships",
+      "kind": "government",
+      "why": "Fully funded scholarships offered by the Australian Government to international students, including Pakistanis, for master's degrees in priority fields."
+    },
+    {
+      "name": "Research Training Program (RTP)",
+      "url": "https://www.education.gov.au/research-training-program",
+      "kind": "government",
+      "why": "Provides funding to support both domestic and international students undertaking research doctorate and master's degrees at Australian universities."
+    },
+    {
+      "name": "University of Melbourne Graduate Research Scholarships",
+      "url": "https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships",
+      "kind": "university",
+      "why": "Offers full fee waivers and stipends to high-achieving domestic and international students pursuing graduate research degrees."
+    },
+    {
+      "name": "Monash University International Merit Scholarships",
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-international-merit-scholarships-5085",
+      "kind": "university",
+      "why": "Awards scholarships to international students based on academic achievement, applicable to master's programs including AI."
+    },
+    {
+      "name": "University of Sydney International Scholarships",
+      "url": "https://www.sydney.edu.au/scholarships/e/university-of-sydney-international-scholarship.html",
+      "kind": "university",
+      "why": "Provides funding to outstanding international students undertaking postgraduate research degrees."
+    },
+    {
+      "name": "UNSW International Scholarships",
+      "url": "https://www.unsw.edu.au/study/fees-and-scholarships/scholarships/international-scholarships",
+      "kind": "university",
+      "why": "Offers a range of scholarships and awards to support international postgraduate students."
+    },
+    {
+      "name": "Australian National University (ANU) College of Engineering & Computer Science Scholarships",
+      "url": "https://cecs.anu.edu.au/study/scholarships",
+      "kind": "university",
+      "why": "Provides scholarships specifically for international students enrolling in engineering and computer science programs, including AI."
+    },
+    {
+      "name": "University of Queensland International Scholarships",
+      "url": "https://scholarships.uq.edu.au/",
+      "kind": "university",
+      "why": "Offers various scholarships to international students for postgraduate studies in fields including artificial intelligence."
+    }
+  ],
+  "active": [
+    {
+      "name": "Australia Awards Scholarships",
+      "provider": "Australian Government Department of Foreign Affairs and Trade",
+      "kind": "government",
+      "degree_levels": [
+        "MS"
+      ],
+      "fields": [
+        "Artificial Intelligence"
+      ],
+      "funding": "full",
+      "min_gpa_4": null,
+      "min_ielts": null,
+      "deadline": "2026-04-30",
+      "intake": "2027",
+      "required_documents": [
+        "CV",
+        "academic transcripts",
+        "referee reports"
+      ],
+      "url": "https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships",
+      "description": "Fully funded scholarships for international students to undertake full-time postgraduate study at Australian institutions.",
+      "relevance": 10
+    },
+    {
+      "name": "Graduate Research Scholarships",
+      "provider": "University of Melbourne",
+      "kind": "university",
+      "degree_levels": [
+        "MS"
+      ],
+      "fields": [
+        "Artificial Intelligence"
+      ],
+      "funding": "full",
+      "min_gpa_4": null,
+      "min_ielts": null,
+      "deadline": null,
+      "intake": "2027",
+      "required_documents": [
+        "CV",
+        "academic transcripts",
+        "research proposal"
+      ],
+      "url": "https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships",
+      "description": "Scholarships offering full fee remission and stipends to high-achieving domestic and international students pursuing graduate research degrees.",
+      "relevance": 9,
+      "rel": 9.0,
+      "rank_score": 11.0
+    },
+    {
+      "name": "Research Training Program (RTP)",
+      "provider": "Australian Government Department of Education",
+      "kind": "government",
+      "degree_levels": [
+        "MS"
+      ],
+      "fields": [
+        "Artificial Intelligence"
+      ],
+      "funding": "full",
+      "min_gpa_4": null,
+      "min_ielts": null,
+      "deadline": null,
+      "intake": "2027",
+      "required_documents": [
+        "CV",
+        "academic transcripts",
+        "research proposal"
+      ],
+      "url": "https://www.education.gov.au/research-training-program",
+      "description": "Provides funding to support both domestic and international students undertaking research master's degrees at Australian universities.",
+      "relevance": 9,
+      "rel": 9.0,
+      "rank_score": 11.0
+    },
+    {
+      "name": "Monash University International Merit Scholarships",
+      "provider": "Monash University",
+      "kind": "university",
+      "degree_levels": [
+        "MS"
+      ],
+      "fields": [
+        "Artificial Intelligence"
+      ],
+      "funding": "partial",
+      "min_gpa_4": null,
+      "min_ielts": null,
+      "deadline": null,
+      "intake": "2027",
+      "required_documents": [
+        "CV",
+        "academic transcripts",
+        "personal statement"
+      ],
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-international-merit-scholarships-5085",
+      "description": "Awards scholarships to international students based on academic achievement, applicable to master's programs including AI.",
+      "relevance": 8,
+      "rel": 8.0,
+      "rank_score": 8.0
+    },
+    {
+      "name": "University of Sydney International Scholarships",
+      "provider": "University of Sydney",
+      "kind": "university",
+      "degree_levels": [
+        "MS"
+      ],
+      "fields": [
+        "Artificial Intelligence"
+      ],
+      "funding": "partial",
+      "min_gpa_4": null,
+      "min_ielts": null,
+      "deadline": null,
+      "intake": "2027",
+      "required_documents": [
+        "CV",
+        "academic transcripts",
+        "research proposal"
+      ],
+      "url": "https://www.sydney.edu.au/scholarships/e/university-of-sydney-international-scholarship.html",
+      "description": "Provides funding to outstanding international students undertaking postgraduate research degrees.",
+      "relevance": 8,
+      "rel": 8.0,
+      "rank_score": 8.0
+    },
+    {
+      "name": "UNSW International Scholarships",
+      "provider": "University of New South Wales",
+      "kind": "university",
+      "degree_levels": [
+        "MS"
+      ],
+      "fields": [
+        "Artificial Intelligence"
+      ],
+      "funding": "partial",
+      "min_gpa_4": null,
+      "min_ielts": null,
+      "deadline": null,
+      "intake": "2027",
+      "required_documents": [
+        "CV",
+        "academic transcripts",
+        "personal statement"
+      ],
+      "url": "https://www.unsw.edu.au/study/fees-and-scholarships/scholarships/international-scholarships",
+      "description": "Offers a range of scholarships and awards to support international postgraduate students.",
+      "relevance": 8,
+      "rel": 8.0,
+      "rank_score": 8.0
+    },
+    {
+      "name": "ANU College of Engineering & Computer Science Scholarships",
+      "provider": "Australian National University",
+      "kind": "university",
+      "degree_levels": [
+        "MS"
+      ],
+      "fields": [
+        "Artificial Intelligence"
+      ],
+      "funding": "partial",
+      "min_gpa_4": null,
+      "min_ielts": null,
+      "deadline": null,
+      "intake": "2027",
+      "required_documents": [
+        "CV",
+        "academic transcripts",
+        "personal statement"
+      ],
+      "url": "https://cecs.anu.edu.au/study/scholarships",
+      "description": "Provides scholarships specifically for international students enrolling in engineering and computer science programs, including AI.",
+      "relevance": 8,
+      "rel": 8.0,
+      "rank_score": 8.0
+    },
+    {
+      "name": "University of Queensland International Scholarships",
+      "provider": "University of Queensland",
+      "kind": "university",
+      "degree_levels": [
+        "MS"
+      ],
+      "fields": [
+        "Artificial Intelligence"
+      ],
+      "funding": "partial",
+      "min_gpa_4": null,
+      "min_ielts": null,
+      "deadline": null,
+      "intake": "2027",
+      "required_documents": [
+        "CV",
+        "academic transcripts",
+        "personal statement"
+      ],
+      "url": "https://scholarships.uq.edu.au/",
+      "description": "Offers various scholarships to international students for postgraduate studies in fields including artificial intelligence.",
+      "relevance": 8,
+      "rel": 8.0,
+      "rank_score": 8.0
+    }
+  ],
+  "found": [
+    {
+      "name": "University of Sydney International Research Scholarships (RTP and USYDIS)",
+      "provider": "University of Sydney",
+      "kind": "Fully funded",
+      "degree_levels": [
+        "PhD",
+        "MPhil"
+      ],
+      "fields": [
+        "All Subjects"
+      ],
+      "funding": "Full tuition fees and stipend",
+      "min_gpa_4": null,
+      "min_ielts": null,
+      "deadline": "2026-12-18",
+      "intake": "Research Periods 3-4 of 2027",
+      "required_documents": [
+        "Research proposal",
+        "Academic transcripts",
+        "CV",
+        "References"
+      ],
+      "url": "https://www.scholarships.com.pk/masters-scholarships-for-pakistani-students-in-australia",
+      "description": "Supports international students undertaking higher degree by research programs at the University of Sydney.",
+      "relevance": 8,
+      "rel": 8.0,
+      "rank_score": 8.0
+    },
+    {
+      "name": "ANU University Research Scholarship (URS)",
+      "provider": "Australian National University",
+      "kind": "Partially funded",
+      "degree_levels": [
+        "PhD",
+        "MPhil"
+      ],
+      "fields": [
+        "All Subjects"
+      ],
+      "funding": "Tuition fee waiver and stipend",
+      "min_gpa_4": null,
+      "min_ielts": null,
+      "deadline": "2026-08-31",
+      "intake": "2027",
+      "required_documents": [
+        "Research proposal",
+        "Academic transcripts",
+        "CV",
+        "References"
+      ],
+      "url": "https://www.scholarships.com.pk/masters-scholarships-for-pakistani-students-in-australia",
+      "description": "Offers financial support to international students pursuing higher degree by research programs at ANU.",
+      "relevance": 7
+    },
+    {
+      "name": "Deakin Vice-Chancellor\u2019s International Scholarship",
+      "provider": "Deakin University",
+      "kind": "Partially funded",
+      "degree_levels": [
+        "Bachelor",
+        "Masters"
+      ],
+      "fields": [
+        "All Subjects"
+      ],
+      "funding": "Partial tuition fee waiver",
+      "min_gpa_4": null,
+      "min_ielts": null,
+      "deadline": "Rolling",
+      "intake": "2027",
+      "required_documents": [
+        "Academic transcripts",
+        "Personal statement",
+        "References"
+      ],
+      "url": "https://propakistani.pk/2026/03/20/here-are-17-fully-partially-funded-australian-masters-scholarships-for-pakistani-students/",
+      "description": "Awards high-achieving international students with partial tuition fee waivers.",
+      "relevance": 6,
+      "rel": 6.0,
+      "rank_score": 6.0
+    },
+    {
+      "name": "Endeavour Postgraduate Scholarship",
+      "provider": "Australian Government",
+      "kind": "Fully funded",
+      "degree_levels": [
+        "Masters",
+        "PhD"
+      ],
+      "fields": [
+        "All Subjects"
+      ],
+      "funding": "Full tuition fees, monthly stipend, travel allowance",
+      "min_gpa_4": null,
+      "min_ielts": null,
+      "deadline": "2026-12-31",
+      "intake": "2027",
+      "required_documents": [
+        "Academic transcripts",
+        "CV",
+        "References",
+        "Personal statement"
+      ],
+      "url": "https://propakistani.pk/2026/03/20/here-are-17-fully-partially-funded-australian-masters-scholarships-for-pakistani-students/",
+      "description": "Provides financial support for international students to undertake postgraduate study in Australia.",
+      "relevance": 9,
+      "rel": 9.0,
+      "rank_score": 9.0
+    },
+    {
+      "name": "University of Melbourne Graduate Research Scholarships",
+      "provider": "University of Melbourne",
+      "kind": "Fully funded",
+      "degree_levels": [
+        "Masters",
+        "PhD"
+      ],
+      "fields": [
+        "All Subjects"
+      ],
+      "funding": "Full tuition fees, stipend, relocation grant",
+      "min_gpa_4": null,
+      "min_ielts": null,
+      "deadline": "2026-10-31",
+      "intake": "2027",
+      "required_documents": [
+        "Research proposal",
+        "Academic transcripts",
+        "CV",
+        "References"
+      ],
+      "url": "https://propakistani.pk/2026/03/20/here-are-17-fully-partially-funded-australian-masters-scholarships-for-pakistani-students/",
+      "description": "Offers comprehensive financial support to international students undertaking graduate research degrees.",
+      "relevance": 8,
+      "rel": 8.0,
+      "rank_score": 8.0
+    },
+    {
+      "name": "Monash University Graduate Scholarship (MGS)",
+      "provider": "Monash University",
+      "kind": "Fully funded",
+      "degree_levels": [
+        "Masters",
+        "PhD"
+      ],
+      "fields": [
+        "All Subjects"
+      ],
+      "funding": "Annual stipend of $37,145, relocation allowance",
+      "min_gpa_4": null,
+      "min_ielts": null,
+      "deadline": "2026-08-31",
+      "intake": "2027",
+      "required_documents": [
+        "Research proposal",
+        "Academic transcripts",
+        "CV",
+        "References"
+      ],
+      "url": "https://www.mauqapakistan.com/2026/06/monash-university-graduate-scholarship-mgs-2026-fully-funded-research-stipend-australia-pakistan-eligible-apply-by-31-august.html",
+      "description": "Provides financial support for international students undertaking research degrees at Monash University.",
+      "relevance": 8
+    },
+    {
+      "name": "Curtin University Research Training Program (RTP) Scholarship",
+      "provider": "Curtin University",
+      "kind": "Partially funded",
+      "degree_levels": [
+        "Masters",
+        "PhD"
+      ],
+      "fields": [
+        "All Subjects"
+      ],
+      "funding": "Tuition fee offset, stipend, allowances",
+      "min_gpa_4": null,
+      "min_ielts": null,
+      "deadline": "2026-07-31",
+      "intake": "2027",
+      "required_documents": [
+        "Research proposal",
+        "Academic transcripts",
+        "CV",
+        "References"
+      ],
+      "url": "https://scholarsrepublic.org/scholarships/curtin-university-research-training-program-rtp-scholarship-round-2026",
+      "description": "Supports international students undertaking higher degree by research programs at Curtin University.",
+      "relevance": 7
+    },
+    {
+      "name": "Telstra Masters Scholarship",
+      "provider": "University of Melbourne",
+      "kind": "Partially funded",
+      "degree_levels": [
+        "Masters"
+      ],
+      "fields": [
+        "Engineering",
+        "Information Technology",
+        "Computer Science"
+      ],
+      "funding": "Living allowance of $10,000 per year for two years",
+      "min_gpa_4": null,
+      "min_ielts": null,
+      "deadline": "2026-08-18",
+      "intake": "2027",
+      "required_documents": [
+        "Academic transcripts",
+        "Personal statement",
+        "References"
+      ],
+      "url": "https://scholarships.unimelb.edu.au/awards/telstra-masters-scholarship",
+      "description": "Offers financial support to domestic students enrolling in specific master's degrees at the University of Melbourne.",
+      "relevance": 5
+    }
+  ],
+  "ranked": [
+    {
+      "name": "Graduate Research Scholarships",
+      "provider": "University of Melbourne",
+      "kind": "university",
+      "degree_levels": [
+        "MS"
+      ],
+      "fields": [
+        "Artificial Intelligence"
+      ],
+      "funding": "full",
+      "min_gpa_4": null,
+      "min_ielts": null,
+      "deadline": null,
+      "intake": "2027",
+      "required_documents": [
+        "CV",
+        "academic transcripts",
+        "research proposal"
+      ],
+      "url": "https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships",
+      "description": "Scholarships offering full fee remission and stipends to high-achieving domestic and international students pursuing graduate research degrees.",
+      "relevance": 9,
+      "rel": 9.0,
+      "rank_score": 11.0
+    },
+    {
+      "name": "Research Training Program (RTP)",
+      "provider": "Australian Government Department of Education",
+      "kind": "government",
+      "degree_levels": [
+        "MS"
+      ],
+      "fields": [
+        "Artificial Intelligence"
+      ],
+      "funding": "full",
+      "min_gpa_4": null,
+      "min_ielts": null,
+      "deadline": null,
+      "intake": "2027",
+      "required_documents": [
+        "CV",
+        "academic transcripts",
+        "research proposal"
+      ],
+      "url": "https://www.education.gov.au/research-training-program",
+      "description": "Provides funding to support both domestic and international students undertaking research master's degrees at Australian universities.",
+      "relevance": 9,
+      "rel": 9.0,
+      "rank_score": 11.0
+    },
+    {
+      "name": "Endeavour Postgraduate Scholarship",
+      "provider": "Australian Government",
+      "kind": "Fully funded",
+      "degree_levels": [
+        "Masters",
+        "PhD"
+      ],
+      "fields": [
+        "All Subjects"
+      ],
+      "funding": "Full tuition fees, monthly stipend, travel allowance",
+      "min_gpa_4": null,
+      "min_ielts": null,
+      "deadline": "2026-12-31",
+      "intake": "2027",
+      "required_documents": [
+        "Academic transcripts",
+        "CV",
+        "References",
+        "Personal statement"
+      ],
+      "url": "https://propakistani.pk/2026/03/20/here-are-17-fully-partially-funded-australian-masters-scholarships-for-pakistani-students/",
+      "description": "Provides financial support for international students to undertake postgraduate study in Australia.",
+      "relevance": 9,
+      "rel": 9.0,
+      "rank_score": 9.0
+    },
+    {
+      "name": "Monash University International Merit Scholarships",
+      "provider": "Monash University",
+      "kind": "university",
+      "degree_levels": [
+        "MS"
+      ],
+      "fields": [
+        "Artificial Intelligence"
+      ],
+      "funding": "partial",
+      "min_gpa_4": null,
+      "min_ielts": null,
+      "deadline": null,
+      "intake": "2027",
+      "required_documents": [
+        "CV",
+        "academic transcripts",
+        "personal statement"
+      ],
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-international-merit-scholarships-5085",
+      "description": "Awards scholarships to international students based on academic achievement, applicable to master's programs including AI.",
+      "relevance": 8,
+      "rel": 8.0,
+      "rank_score": 8.0
+    },
+    {
+      "name": "University of Sydney International Scholarships",
+      "provider": "University of Sydney",
+      "kind": "university",
+      "degree_levels": [
+        "MS"
+      ],
+      "fields": [
+        "Artificial Intelligence"
+      ],
+      "funding": "partial",
+      "min_gpa_4": null,
+      "min_ielts": null,
+      "deadline": null,
+      "intake": "2027",
+      "required_documents": [
+        "CV",
+        "academic transcripts",
+        "research proposal"
+      ],
+      "url": "https://www.sydney.edu.au/scholarships/e/university-of-sydney-international-scholarship.html",
+      "description": "Provides funding to outstanding international students undertaking postgraduate research degrees.",
+      "relevance": 8,
+      "rel": 8.0,
+      "rank_score": 8.0
+    },
+    {
+      "name": "UNSW International Scholarships",
+      "provider": "University of New South Wales",
+      "kind": "university",
+      "degree_levels": [
+        "MS"
+      ],
+      "fields": [
+        "Artificial Intelligence"
+      ],
+      "funding": "partial",
+      "min_gpa_4": null,
+      "min_ielts": null,
+      "deadline": null,
+      "intake": "2027",
+      "required_documents": [
+        "CV",
+        "academic transcripts",
+        "personal statement"
+      ],
+      "url": "https://www.unsw.edu.au/study/fees-and-scholarships/scholarships/international-scholarships",
+      "description": "Offers a range of scholarships and awards to support international postgraduate students.",
+      "relevance": 8,
+      "rel": 8.0,
+      "rank_score": 8.0
+    },
+    {
+      "name": "ANU College of Engineering & Computer Science Scholarships",
+      "provider": "Australian National University",
+      "kind": "university",
+      "degree_levels": [
+        "MS"
+      ],
+      "fields": [
+        "Artificial Intelligence"
+      ],
+      "funding": "partial",
+      "min_gpa_4": null,
+      "min_ielts": null,
+      "deadline": null,
+      "intake": "2027",
+      "required_documents": [
+        "CV",
+        "academic transcripts",
+        "personal statement"
+      ],
+      "url": "https://cecs.anu.edu.au/study/scholarships",
+      "description": "Provides scholarships specifically for international students enrolling in engineering and computer science programs, including AI.",
+      "relevance": 8,
+      "rel": 8.0,
+      "rank_score": 8.0
+    },
+    {
+      "name": "University of Queensland International Scholarships",
+      "provider": "University of Queensland",
+      "kind": "university",
+      "degree_levels": [
+        "MS"
+      ],
+      "fields": [
+        "Artificial Intelligence"
+      ],
+      "funding": "partial",
+      "min_gpa_4": null,
+      "min_ielts": null,
+      "deadline": null,
+      "intake": "2027",
+      "required_documents": [
+        "CV",
+        "academic transcripts",
+        "personal statement"
+      ],
+      "url": "https://scholarships.uq.edu.au/",
+      "description": "Offers various scholarships to international students for postgraduate studies in fields including artificial intelligence.",
+      "relevance": 8,
+      "rel": 8.0,
+      "rank_score": 8.0
+    },
+    {
+      "name": "University of Sydney International Research Scholarships (RTP and USYDIS)",
+      "provider": "University of Sydney",
+      "kind": "Fully funded",
+      "degree_levels": [
+        "PhD",
+        "MPhil"
+      ],
+      "fields": [
+        "All Subjects"
+      ],
+      "funding": "Full tuition fees and stipend",
+      "min_gpa_4": null,
+      "min_ielts": null,
+      "deadline": "2026-12-18",
+      "intake": "Research Periods 3-4 of 2027",
+      "required_documents": [
+        "Research proposal",
+        "Academic transcripts",
+        "CV",
+        "References"
+      ],
+      "url": "https://www.scholarships.com.pk/masters-scholarships-for-pakistani-students-in-australia",
+      "description": "Supports international students undertaking higher degree by research programs at the University of Sydney.",
+      "relevance": 8,
+      "rel": 8.0,
+      "rank_score": 8.0
+    },
+    {
+      "name": "University of Melbourne Graduate Research Scholarships",
+      "provider": "University of Melbourne",
+      "kind": "Fully funded",
+      "degree_levels": [
+        "Masters",
+        "PhD"
+      ],
+      "fields": [
+        "All Subjects"
+      ],
+      "funding": "Full tuition fees, stipend, relocation grant",
+      "min_gpa_4": null,
+      "min_ielts": null,
+      "deadline": "2026-10-31",
+      "intake": "2027",
+      "required_documents": [
+        "Research proposal",
+        "Academic transcripts",
+        "CV",
+        "References"
+      ],
+      "url": "https://propakistani.pk/2026/03/20/here-are-17-fully-partially-funded-australian-masters-scholarships-for-pakistani-students/",
+      "description": "Offers comprehensive financial support to international students undertaking graduate research degrees.",
+      "relevance": 8,
+      "rel": 8.0,
+      "rank_score": 8.0
+    }
+  ],
+  "guides": [
+    {
+      "name": "Graduate Research Scholarships",
+      "apply_url": "https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships",
+      "deadline": null,
+      "steps": [
+        "Apply for a graduate research course at the University of Melbourne by the course application closing date.",
+        "Ensure your course application is complete, including all required documents.",
+        "You will be automatically considered for the scholarship; no separate application is necessary."
+      ],
+      "required_documents": [
+        "CV",
+        "academic transcripts",
+        "research proposal"
+      ],
+      "missing_documents": [
+        "academic transcripts",
+        "research proposal"
+      ],
+      "gaps": [],
+      "tips": [
+        "Highlight your research potential and prior academic achievements in your course application.",
+        "Ensure all documents are accurate and submitted before the course application deadline."
+      ]
+    },
+    {
+      "name": "Research Training Program (RTP)",
+      "apply_url": "https://www.education.gov.au/research-training-program",
+      "deadline": null,
+      "steps": [
+        "Apply for a graduate research course at an Australian university participating in the RTP.",
+        "Ensure your course application includes all required documents.",
+        "You will be automatically considered for the RTP scholarship; no separate application is necessary."
+      ],
+      "required_documents": [
+        "CV",
+        "academic transcripts",
+        "research proposal"
+      ],
+      "missing_documents": [
+        "academic transcripts",
+        "research proposal"
+      ],
+      "gaps": [],
+      "tips": [
+        "Emphasize your research experience and academic achievements in your course application.",
+        "Submit all documents accurately and before the course application deadline."
+      ]
+    },
+    {
+      "name": "Endeavour Postgraduate Scholarship",
+      "apply_url": null,
+      "deadline": "2026-12-31",
+      "steps": [
+        "Check the official Australian Government website for the Endeavour Postgraduate Scholarship application portal.",
+        "Prepare and submit your application by December 31, 2026.",
+        "Include all required documents in your application."
+      ],
+      "required_documents": [
+        "Academic transcripts",
+        "CV",
+        "References",
+        "Personal statement"
+      ],
+      "missing_documents": [
+        "Academic transcripts",
+        "References",
+        "Personal statement"
+      ],
+      "gaps": [],
+      "tips": [
+        "Tailor your personal statement to reflect your career goals and how the scholarship aligns with them.",
+        "Obtain strong references that highlight your academic and professional capabilities."
+      ]
+    },
+    {
+      "name": "Monash University International Merit Scholarships",
+      "apply_url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-international-merit-scholarships-5085",
+      "deadline": null,
+      "steps": [
+        "Apply for a course at Monash University.",
+        "Complete the separate scholarship application form.",
+        "Submit all required documents with your scholarship application."
+      ],
+      "required_documents": [
+        "CV",
+        "academic transcripts",
+        "personal statement"
+      ],
+      "missing_documents": [
+        "academic transcripts",
+        "personal statement"
+      ],
+      "gaps": [],
+      "tips": [
+        "Demonstrate your academic excellence and leadership qualities in your personal statement.",
+        "Ensure all documents are accurate and submitted before the scholarship application deadline."
+      ]
+    },
+    {
+      "name": "University of Sydney International Scholarships",
+      "apply_url": "https://www.sydney.edu.au/scholarships/e/university-of-sydney-international-scholarship.html",
+      "deadline": null,
+      "steps": [
+        "Apply for a postgraduate research degree at the University of Sydney.",
+        "Indicate your interest in the scholarship during your course application.",
+        "Submit all required documents with your course application."
+      ],
+      "required_documents": [
+        "CV",
+        "academic transcripts",
+        "research proposal"
+      ],
+      "missing_documents": [
+        "academic transcripts",
+        "research proposal"
+      ],
+      "gaps": [],
+      "tips": [
+        "Highlight your research experience and potential in your application.",
+        "Ensure all documents are accurate and submitted before the course application deadline."
+      ]
+    }
+  ],
+  "visa": {
+    "visa_type": "Student visa (subclass 500)",
+    "official_url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
+    "when_to_apply": "After receiving Confirmation of Enrolment (CoE) from an Australian educational institution.",
+    "processing_time": "Processing times vary; refer to the Department of Home Affairs website for current estimates.",
+    "required_documents": [
+      "Valid passport",
+      "Confirmation of Enrolment (CoE)",
+      "Completed visa application form",
+      "Visa application fee payment receipt",
+      "Overseas Student Health Cover (OSHC) policy",
+      "Evidence of sufficient funds",
+      "English language proficiency test results",
+      "Academic transcripts and certificates"
+    ],
+    "extra_documents": [
+      "Genuine Student (GS) statement detailing ties to home country and reasons for studying in Australia",
+      "Police clearance certificate",
+      "Medical examination results",
+      "Evidence of accommodation arrangements",
+      "Statement of purpose"
+    ],
+    "fees": "Refer to the Department of Home Affairs website for current visa application fees.",
+    "notes": [
+      "From 2 October 2026, new rules apply to Student visa applications, including offshore lodgement requirements for certain applicants.",
+      "Ensure all documents are translated into English if necessary.",
+      "Maintain enrollment in a registered course and comply with visa conditions during your stay."
+    ],
+    "missing": [
+      "Valid passport",
+      "Confirmation of Enrolment (CoE)",
+      "Completed visa application form",
+      "Visa application fee payment receipt",
+      "Overseas Student Health Cover (OSHC) policy",
+      "Evidence of sufficient funds",
+      "English language proficiency test results",
+      "Academic transcripts and certificates"
+    ]
+  },
+  "plan": [
+    {
+      "task": "Scholarship Research",
+      "due": "2026-10-24",
+      "why": "Identify exact requirements and ensure eligibility for all targeted scholarships."
+    },
+    {
+      "task": "Book English Language Test",
+      "due": "2026-10-25",
+      "why": "To secure a spot for the test, necessary for visa application."
+    },
+    {
+      "task": "Draft Personal Statement and Research Proposal",
+      "due": "2026-11-01",
+      "why": "Required for scholarship applications."
+    },
+    {
+      "task": "Request Recommendation Letters",
+      "due": "2026-11-01",
+      "why": "References needed for the Endeavour Postgraduate Scholarship."
+    },
+    {
+      "task": "Collect Academic Transcripts",
+      "due": "2026-11-08",
+      "why": "Required for all scholarship applications."
+    },
+    {
+      "task": "Take English Language Test",
+      "due": "2026-11-15",
+      "why": "To provide results in time for scholarship and visa applications."
+    },
+    {
+      "task": "Document Attestation",
+      "due": "2026-11-22",
+      "why": "Ensure all documents are verified and valid for submission."
+    },
+    {
+      "task": "Submit Scholarship Applications",
+      "due": "2026-12-31",
+      "why": "Meet the deadline for the Endeavour Postgraduate Scholarship."
+    },
+    {
+      "task": "Receive Scholarship Decisions",
+      "due": "2027-01-31",
+      "why": "Necessary to proceed with visa application procedures if successful."
+    },
+    {
+      "task": "Gather Visa Documents",
+      "due": "2027-02-07",
+      "why": "Prepare for visa application as soon as CoE is received."
+    }
+  ],
+  "start_by": "2026-12-31",
+  "routine": {
+    "Mon": "Review scholarship criteria and deadlines.",
+    "Wed": "Work on personal statement and research proposal.",
+    "Fri": "Follow up on recommendation letters and transcripts.",
+    "Sun": "Prepare for English language test; practice tests."
+  }
+}

@@ -1,0 +1,7 @@
+langgraph
+openai
+requests
+beautifulsoup4
+scikit-learn
+pypdf
+python-docx
